@@ -1,17 +1,30 @@
 ### Hi there 👋
 
-<p align="center">
-  <a href="#">
-    <img width="400" align="top" src="https://metrics.lecoq.io/ZhaoDongyu-AK47?template=classic&languages=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Asia%2FShanghai" />
-  </a>
-  &emsp;
-  <a href="#">
-    <img width="400" align="top" src="https://metrics.lecoq.io/ZhaoDongyu-AK47?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai" />
-  </a>
-</p>
-
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="./contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="./pic/github-contribution-grid-snake.svg" /></div>
+
+<!-- 
+![GitHub Snake Light](https://gist.githubusercontent.com/GZTimeWalker/62c190858bed9a108ce5811f715d2e55/raw/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://gist.githubusercontent.com/GZTimeWalker/62c190858bed9a108ce5811f715d2e55/raw/github-snake-dark.svg#gh-dark-mode-only) 
+-->
+
+<!-- metrics 基础资料 -->
+<div align="center"><img src="./pic/base_metrics.svg" alt="base metrics"/></div>
+<br>
+
+<!-- Dynamic Quotes -->
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<br>
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+<br>
 
 <!--
 **ZhaoDongyu-AK47/ZhaoDongyu-AK47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
