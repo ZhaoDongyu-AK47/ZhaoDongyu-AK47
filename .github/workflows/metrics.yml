@@ -16,7 +16,7 @@ jobs:
       - name: base_metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: base_metrics.svg
+          filename: ./pic/base_metrics.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
@@ -32,7 +32,7 @@ jobs:
       - name: plugin_metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: plugin_metrics.svg
+          filename: ./pic/plugin_metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
           template: classic
