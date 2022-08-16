@@ -9,7 +9,7 @@
 -->
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="./pic/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="base_metrics.svg" alt="base metrics"/></div>
 <br>
 
 <!-- GitHub数据统计 -->
