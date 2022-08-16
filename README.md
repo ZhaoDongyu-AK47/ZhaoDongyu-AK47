@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">Hi, I'm ZhaoDongyu :)</h4>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="./pic/github-contribution-grid-snake.svg" /></div>
@@ -18,8 +18,8 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=ZhaoDongyu-AK47&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoDongyu-AK47&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ZhaoDongyu-AK47&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoDongyu-AK47&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
 
