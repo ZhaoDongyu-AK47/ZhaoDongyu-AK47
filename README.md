@@ -12,15 +12,13 @@
 <div align="center"><img src="./pic/base_metrics.svg" alt="base metrics"/></div>
 <br>
 
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ZhaoDongyu-AK47&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
-<br>
-
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ZhaoDongyu-AK47&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoDongyu-AK47&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ZhaoDongyu-AK47&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></div>
+<br>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ZhaoDongyu-AK47&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
 <br>
 
 <!-- Dynamic Quotes -->
