@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!-- Dynamic Quotes -->
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
-
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="./pic/github-contribution-grid-snake.svg" /></div>
 
@@ -25,6 +22,9 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoDongyu-AK47&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
+
+<!-- Dynamic Quotes -->
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
 <!--
 **ZhaoDongyu-AK47/ZhaoDongyu-AK47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
