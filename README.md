@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm ZhaoDongyu :)</h4>
+<h2 align="center">👋 Hi, I'm ZhaoDongyu :)</h2>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="./pic/github-contribution-grid-snake.svg" /></div>
