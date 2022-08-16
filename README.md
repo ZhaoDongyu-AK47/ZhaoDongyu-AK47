@@ -10,6 +10,8 @@
   </a>
 </p>
 
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/ZhaoDongyu-AK47/ZhaoDongyu-AK47/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 <!--
 **ZhaoDongyu-AK47/ZhaoDongyu-AK47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
