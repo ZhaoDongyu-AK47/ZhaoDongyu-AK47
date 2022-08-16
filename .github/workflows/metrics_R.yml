@@ -1,11 +1,13 @@
 # 具体配置文档地址 https://github.com/lowlighter/metrics/blob/master/action.yml
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 
-name: GitHub metrics
+name: GitHub metrics_R
 on:
+  # Schedule updates (each day)
   schedule: 
       - cron: "0 0 * * *"
-  workflow_dispatch:
+  # Lines below let you run workflow manually and on each commit
+  # workflow_dispatch:
   # push: {branches: ["master", "main"]}
 
 jobs:
@@ -16,14 +18,17 @@ jobs:
       - name: base_metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: base_metrics.svg
+          filename: base_metrics_R.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
           user: ${{ github.repository_owner }}
           template: classic
+          base: ""
           config_timezone: Asia/Shanghai
-          committer_message: ":rocket: Update"
-          base: header, activity, community, repositories, metadata
-          plugin_traffic: yes
-          plugin_lines: yes
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

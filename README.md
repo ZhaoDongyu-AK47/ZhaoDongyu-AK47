@@ -9,8 +9,18 @@
 -->
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="base_metrics.svg" alt="base metrics"/></div>
-<br>
+<!-- <div align="center"><img src="base_metrics.svg" alt="base metrics"/></div>
+<br> -->
+<p align="center">
+  <a href="#">
+    <img width="400" align="top" src="base_metrics.svg" />
+  </a>
+  &emsp;
+  <a href="#">
+    <img width="400" align="top" src="base_metrics_R.svg" />
+  </a>
+</p>
+
 
 <!-- GitHub数据统计 -->
 <div align="center">
