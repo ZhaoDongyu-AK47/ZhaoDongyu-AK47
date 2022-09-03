@@ -5,7 +5,7 @@ name: GitHub metrics_R
 on:
   # Schedule updates (each day)
   schedule: 
-      - cron: "0 0 * * *"
+      - cron: "0 0 * * 0"
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   # push: {branches: ["master", "main"]}
